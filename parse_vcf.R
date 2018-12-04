@@ -20,8 +20,8 @@ library("magrittr")
 # output_file <- args[2]
 
 # Please change the input an output accordingly.
-input_file <- "coding_challenge_final.vcf"
-output_file <- "vcf_useful_info.txt"
+input_file <- "input_coding_challenge_final.vcf"
+output_file <- "output_vcf_useful_info.txt"
 
 
 
