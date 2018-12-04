@@ -4,7 +4,7 @@ This project parses a vcf file and output a table as a result. The output table 
 
 ## Installation
 
-This is an R script. You need to install R on your computer. The R script utilizes three third-party package : httr, jsonlite, and magrittr, which should be installed as well.
+This is an R script. You need to install R on your computer. The R script utilizes three third-party packages : httr, jsonlite, and magrittr, which should be installed as well.
 
 
 
