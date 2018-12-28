@@ -1,4 +1,4 @@
-# vcf coding challenge
+# vcf parsing project
 
 This project parses a vcf file and output a table as a result. The output table contains some fields that are interesting to the biologist.
 
